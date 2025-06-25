@@ -1,0 +1,4 @@
+name: BarrelAddon
+version: '1.0'
+main: core.sg.barrelAddon.BarrelAddon
+api-version: '1.20'
