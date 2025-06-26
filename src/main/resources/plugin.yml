@@ -1,4 +1,14 @@
+
+# ====== plugin.yml ======
+# src/main/resources/plugin.yml
+
 name: BarrelAddon
-version: '1.0'
+version: 1.0.0
+author: Syadd
 main: core.sg.barrelAddon.BarrelAddon
 api-version: '1.20'
+description: Advanced barrel storage system for Slimefun
+website: https://github.com/YourName/BarrelAddon
+
+depend:
+  - Slimefun
